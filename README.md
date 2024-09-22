@@ -12,11 +12,15 @@ The current Environment file is conda 3.10 on Windows 11
 ## Data Collection
 Image data is gathered from the [Udacity Self-Driving Car Simulator](https://github.com/udacity/self-driving-car-sim).
 
+
+
 ## Training the Model
 
 Make sure the Virtual Environment is enabled 
 
-[Training Demo](https://drive.google.com/file/d/1Vvy0jGtMlDVa9sWj9DWL2KaaHeNNllWO/view?usp=drive_link)
+https://github.com/user-attachments/assets/264a1a48-657a-4392-a806-e637fc0d9daa
+
+I found the best results by going around the loop 3 times in one direction then 3 times in the other direction in order to avoid biasing but also just enough to avoid over fitting
 
 
 Once data is gathered, training can be done through ```train.ipynb``` which show cases each step of the data pipeline and data process.
@@ -24,4 +28,5 @@ Once data is gathered, training can be done through ```train.ipynb``` which show
 ## Validating the Model.
 
 ```python drive.py ```
+
 
