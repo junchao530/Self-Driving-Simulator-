@@ -16,6 +16,9 @@ Image data is gathered from the [Udacity Self-Driving Car Simulator](https://git
 
 Make sure the Virtual Environment is enabled 
 
+[Training Demo](https://drive.google.com/file/d/1Vvy0jGtMlDVa9sWj9DWL2KaaHeNNllWO/view?usp=drive_link)
+
+
 Once data is gathered, training can be done through ```train.ipynb``` which show cases each step of the data pipeline and data process.
 
 ## Validating the Model.
